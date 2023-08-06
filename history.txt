@@ -1,0 +1,20 @@
+pinfo 11352 
+pinfo 
+ps a 
+pinfo 11352 
+pinfo 
+ps a 
+pinfo 11352 
+sleep 50 & 
+pinfo 14952 
+ps a 
+pinfo 
+sleep 40 & 
+pinfo 15426 
+ps a 
+cat < history.txt | wc 
+ls | wc 
+gnome-mines & 
+bg 1 
+sig 1 20 
+bg 1 
